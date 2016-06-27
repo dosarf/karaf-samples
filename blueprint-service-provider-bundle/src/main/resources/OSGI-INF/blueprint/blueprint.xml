@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0">
+
+    <service interface="org.apache.karaf.samples.api.Library">
+        <bean class="org.apache.karaf.samples.blueprint.provider.LibraryImpl"/>
+    </service>
+
+</blueprint>
