@@ -12,7 +12,7 @@
         <module>simple-api</module>
         <module>osgi-service-provider-bundle</module>
         <module>osgi-service-simple-client-bundle</module>
-        <!-- <module>osgi-service-tracker-client-bundle</module> -->
+        <module>osgi-service-tracker-bundle</module>
         <module>blueprint-service-provider-bundle</module>
         <module>osgi-config-simple-bundle</module>
         <module>osgi-config-managed-service-bundle</module>

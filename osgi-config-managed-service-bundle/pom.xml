@@ -31,7 +31,7 @@
                 <artifactId>maven-bundle-plugin</artifactId>
                 <configuration>
                     <instructions>
-                        <Bundle-Activator>org.apache.karaf.samples.osgi.config.managed</Bundle-Activator>
+                        <Bundle-Activator>org.apache.karaf.samples.osgi.config.managed.Activator</Bundle-Activator>
                     </instructions>
                 </configuration>
             </plugin>
