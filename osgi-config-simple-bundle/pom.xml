@@ -32,9 +32,6 @@
                 <configuration>
                     <instructions>
                         <Bundle-Activator>org.apache.karaf.samples.osgi.config.Activator</Bundle-Activator>
-                        <Import-Package>
-                            org.osgi.framework
-                        </Import-Package>
                     </instructions>
                 </configuration>
             </plugin>
